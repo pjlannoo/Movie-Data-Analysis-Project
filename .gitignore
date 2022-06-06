@@ -1,5 +1,7 @@
 #Data folder
 zippedData/
+
+#Misc.
 .ipynb_checkpoints
 .DS_Store
 
